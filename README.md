@@ -40,11 +40,13 @@ https://youtu.be/dTNnxPcY49Q
 
 #### Subject-Specific
 
-[Math - American Institute of Math Open Textbook Initiative](https://aimath.org/textbooks/)
+[MATH - American Institute of Math Open Textbook Initiative](https://aimath.org/textbooks/)
 
-[Computer Science - EbookFoundation - Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+[COMPUTER SCIENCE - EbookFoundation - Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-[Psychology - Noba Project](https://nobaproject.com)
+[PSYCHOLOGY - Noba Project](https://nobaproject.com)
+
+[TECH - Free Tech Books](https://www.freetechbooks.com/global-text-project-p2000.html)
 
 
 # Open Access Journals
