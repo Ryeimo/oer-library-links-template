@@ -12,7 +12,7 @@ https://youtu.be/dTNnxPcY49Q
 
 # OER Repositories
 
-[OASIS](https://oasis.geneseo.edu/index.php) - (Openly Available Sources Integrated Search) - open-content search discovery tool from 95 different sources and over 367,883 records.
+[OASIS](https://oasis.geneseo.edu/index.php) - (Openly Available Sources Integrated Search) - Open-content search discovery tool from 95 different sources and over 367,883 records.
 
 [MERLOT](https://merlot.org) - Provides access to curated online learning and support materials and content creation tools, led by an international community of educators, learners and researchers.
 
@@ -22,17 +22,17 @@ https://youtu.be/dTNnxPcY49Q
 
 [Library of Congress - Open Access Books](https://www.loc.gov/collections/open-access-books/) - This is a growing online collection of contemporary open access e-books. All of these books have been made available for download on the Library's website in keeping with the intent of their creators and publishers, which chose to publish these works under open access licenses to allow the broadest possible access and reuse.
 
-[Open Oregon Search](https://openoregon.org/resources/)
+[Open Oregon Search](https://openoregon.org/resources/) - This page lists course materials that Oregon community college and university instructors are using to reduce textbook costs in their courses.
 
-[SOL*R](https://solr.bccampus.ca/wp/)
+[SOL*R](https://solr.bccampus.ca/wp/) - SOL*R is a repository service provided by BCcampus that allows educators to access FREE online learning resources. It facilitates sharing, discovery, reuse, and remixing of a growing collection of content created by BC post-secondary educators.
 
 # OER Textbooks
 
-[Open Textbooks Library](https://open.umn.edu/opentextbooks)
+[Open Textbooks Library](https://open.umn.edu/opentextbooks) - The Open Textbook Library provides a growing catalog of free, peer-reviewed, and openly-licensed textbooks.
 
 [LibreTexts](https://libretexts.org)
 
-[OpenStax](https://openstax.org)
+[OpenStax](https://openstax.org) - Founded at Rice University, OpenStax provides free access to dozens of open textbooks in various disciplines.
 
 [eCampusOntario Open Library Portal](https://openlibrary.ecampusontario.ca)
 
