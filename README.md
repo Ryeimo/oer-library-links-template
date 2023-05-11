@@ -40,13 +40,13 @@ https://youtu.be/dTNnxPcY49Q
 
 #### Subject-Specific
 
-[MATH - American Institute of Math - Open Textbook Initiative](https://aimath.org/textbooks/)
+[MATH - American Institute of Math - Open Textbook Initiative](https://aimath.org/textbooks/) - Free math textbooks curated by the American Math Institute.
 
-[COMPUTER SCIENCE - EbookFoundation - Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+[COMPUTER SCIENCE - EbookFoundation - Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Free programming books curated by github contributors.
 
-[PSYCHOLOGY - Noba Project](https://nobaproject.com)
+[PSYCHOLOGY - Noba Project](https://nobaproject.com) - Free psychology texts to teach yourself psychology!
 
-[TECH - Free Tech Books](https://www.freetechbooks.com/)
+[TECH - Free Tech Books](https://www.freetechbooks.com/) - Curated open source technology books.
 
 
 # Open Access Journals
