@@ -72,16 +72,18 @@ https://youtu.be/dTNnxPcY49Q
 
 # Open Courseware
 
-add “ocw” section to digital reserves
-ocw: classcentral.com
-ocw: ocw.mit.edu
-ocw: freeCodeCamp
-ocw: khan academy
+[Class Central OCW Search](https://classcentral.com)
+
+[MIT Open Courseware](https://ocw.mit.edu)
+
+[freeCodeCamp](https://freecodecamp.org)
+
+[Khan Academy](https://khanacademy.org)
 
 
-## Attribution/Works Cited
+#### Attribution/Works Cited
 
-https://tlp-lpa.ca/oer-toolkit/finding-curating
+[OER Toolkit - Curating](https://tlp-lpa.ca/oer-toolkit/finding-curating)
 
 
 
