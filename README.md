@@ -30,13 +30,13 @@ https://youtu.be/dTNnxPcY49Q
 
 [Open Textbooks Library](https://open.umn.edu/opentextbooks) - The Open Textbook Library provides a growing catalog of free, peer-reviewed, and openly-licensed textbooks.
 
-[LibreTexts](https://libretexts.org)
+[LibreTexts](https://libretexts.org) - LibreTexts is a 501(c)(3) non-profit organization committed to freeing the textbook from the limitations and costs of traditional textbooks. Their open and freely accessible LibreTexts provide a more engaging learning experience for students without the financial burden.
 
 [OpenStax](https://openstax.org) - Founded at Rice University, OpenStax provides free access to dozens of open textbooks in various disciplines.
 
-[eCampusOntario Open Library Portal](https://openlibrary.ecampusontario.ca)
+[eCampusOntario Open Library Portal](https://openlibrary.ecampusontario.ca) - The eCampusOntario Open Library provides educators and learners with access to more than 1,200 free and openly-licensed educational resources.
 
-[BC Campus OpenEd Textbooks](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/)
+[BC Campus OpenEd Textbooks](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/) - Find textbooks and full course material packages in our new, streamlined collection.
 
 #### Subject-Specific
 
@@ -51,20 +51,20 @@ https://youtu.be/dTNnxPcY49Q
 
 # Open Access Journals
 
-[Directory of Open Access Journals](https://doaj.org)
+[Directory of Open Access Journals](https://doaj.org) - DOAJ is a unique and extensive index of diverse open access journals from around the world, driven by a growing community, committed to ensuring quality content is freely available online for everyone.
 
-[Google Scholar](https://scholar.google.com)
+[Google Scholar](https://scholar.google.com) - Google-ran search engine for journal articles. Some are OA.
 
 [Digital Commons Network](https://network.bepress.com) - The Digital Commons Network brings together free, full-text scholarly articles from hundreds of universities and colleges worldwide.
 
 
 # Openly-Licensed Images/Videos/3D Models/Audio
 
-[Creative Commons Search](https://search.creativecommons.org)
+[Creative Commons Search](https://search.creativecommons.org) - CC's media search of open licensed digital materials.
 
-[Getty Images Open Content Images](https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1)
+[Getty Images Open Content Images](https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1) - Getty Image's search of open licensed images.
 
-[UBC Open Images Search Guide](https://copyright.ubc.ca/image-sources/)
+[UBC Open Images Search Guide](https://copyright.ubc.ca/image-sources/) - A guide with recommended links to find open images.
 
 # Open Data
 
@@ -76,13 +76,13 @@ https://youtu.be/dTNnxPcY49Q
 
 # Open Courseware
 
-[Class Central OCW Search](https://classcentral.com)
+[Class Central OCW Search](https://classcentral.com) - A aggregator of free courses offered on the internet. Includes ads.
 
-[MIT Open Courseware](https://ocw.mit.edu)
+[MIT Open Courseware](https://ocw.mit.edu) - MIT began and coined OpenCourseware in 2001 when it began offering video recordings of its professors teaching classes, with related materials.
 
-[freeCodeCamp](https://freecodecamp.org)
+[freeCodeCamp](https://freecodecamp.org) - A non-profit dedicated to teaching people how to code and make websites for free.
 
-[Khan Academy](https://khanacademy.org)
+[Khan Academy](https://khanacademy.org) - A non-profit dedicated to teaching math and HS/first year college-level courses via videos and automated multiple choice quizes.
 
 
 #### Attribution/Works Cited
