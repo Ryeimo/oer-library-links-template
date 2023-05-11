@@ -89,6 +89,8 @@ https://youtu.be/dTNnxPcY49Q
 
 [OER Toolkit - Curating](https://tlp-lpa.ca/oer-toolkit/finding-curating)
 
+[Boise State OER Resource Guide](https://guides.boisestate.edu/oer/collectionsandopentextbooks)
+
 
 
 
