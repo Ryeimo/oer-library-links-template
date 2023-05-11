@@ -20,7 +20,7 @@ https://youtu.be/dTNnxPcY49Q
 
 [Mason OER Metafinder](https://oer.gmu.edu)
 
-[Library of Congress](TODO)
+[Library of Congress - Open Access Books](https://www.loc.gov/collections/open-access-books/)
 
 [Open Oregon Search](https://openoregon.org/resources/)
 
@@ -28,16 +28,23 @@ https://youtu.be/dTNnxPcY49Q
 
 # OER Textbooks
 
-add umn OTL to digital reserves
-add libretexts to digital reserves
-oer: openstax
-oer: eCampusOntario Open Library Portal
-https://openlibrary.ecampusontario.ca
-oer: BC Campus OpenEd Textbooks
-https://open.bccampus.ca/browse-our-collection/find-open-textbooks/
-math: AIM math books
-CS: add free cs books to digital reserves
-Psych: https://nobaproject.com
+[Open Textbooks Library](https://open.umn.edu/opentextbooks)
+
+[LibreTexts](https://libretexts.org)
+
+[OpenStax](https://openstax.org)
+
+[eCampusOntario Open Library Portal](https://openlibrary.ecampusontario.ca)
+
+[BC Campus OpenEd Textbooks](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/)
+
+### Subject-Specific Resources
+
+[Math - American Institute of Math Open Textbook Initiative](https://aimath.org/textbooks/)
+
+[Computer Science - EbookFoundation - Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+[Psychology - Noba Project](https://nobaproject.com)
 
 
 # OA Journals
