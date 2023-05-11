@@ -74,6 +74,10 @@ https://youtu.be/dTNnxPcY49Q
 
 [CA Open Gov](https://open.canada.ca/en/open-data)
 
+# Open Science
+
+[PhET Interactive Simulations](https://phet.colorado.edu) - Creates free interactive math and science simulations. PhET sims are based on extensive education research and engage students through an intuitive, game-like environment where students learn through exploration and discovery.
+
 # Open Courseware
 
 [Class Central OCW Search](https://classcentral.com) - A aggregator of free courses offered on the internet. Includes ads.
