@@ -38,7 +38,7 @@ https://youtu.be/dTNnxPcY49Q
 
 [BC Campus OpenEd Textbooks](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/)
 
-### Subject-Specific Resources
+#### Subject-Specific
 
 [Math - American Institute of Math Open Textbook Initiative](https://aimath.org/textbooks/)
 
@@ -47,22 +47,28 @@ https://youtu.be/dTNnxPcY49Q
 [Psychology - Noba Project](https://nobaproject.com)
 
 
-# OA Journals
+# Open Access Journals
 
-https://doaj.org
-scholar.google.com
+[Directory of Open Access Journals](https://doaj.org)
+
+[Google Scholar](https://scholar.google.com)
+
 
 # Openly-Licensed Images/Videos/3D Models/Audio
 
-https://search.creativecommons.org
-https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1
-https://copyright.ubc.ca/image-sources/
+[Creative Commons Search](https://search.creativecommons.org)
+
+[Getty Images Open Content Images](https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1)
+
+[UBC Open Images Search Guide](https://copyright.ubc.ca/image-sources/)
 
 # Open Data
 
-https://data.gov/open-gov/
-https://data.europa.eu/en
-https://open.canada.ca/en/open-data
+[US Open Gov](https://data.gov/open-gov/)
+
+[EU Open Gov](https://data.europa.eu/en)
+
+[CA Open Gov](https://open.canada.ca/en/open-data)
 
 # Open Courseware
 
