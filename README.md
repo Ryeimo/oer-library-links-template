@@ -82,7 +82,7 @@ https://youtu.be/dTNnxPcY49Q
 
 # Open Courseware
 
-[Class Central OCW Search](https://classcentral.com) - A aggregator of free courses offered on the internet. Includes ads.
+[Class Central OCW Search](https://classcentral.com) - A aggregator of free courses offered on the internet. Warning: Includes ads.
 
 [MIT Open Courseware](https://ocw.mit.edu) - MIT began and coined OpenCourseware in 2001 when it began offering video recordings of its professors teaching classes, with related materials.
 
