@@ -48,6 +48,8 @@ https://youtu.be/dTNnxPcY49Q
 
 [TECH - Free Tech Books](https://www.freetechbooks.com/) - Curated open source technology books.
 
+[NURSING - Open RN](https://www.cvtc.edu/landing-pages/grants/open-rn) - The Open RN project is led by Chippewa Valley Technical College as part of the Wisconsin Technical College System (WTCS) consortium. OER nursing textbooks and virtual simulations are collaboratively developed by faculty based on the WTCS State Nursing curriculum and the current NCLEX-RN Test Plan.
+
 
 # Open Access Journals
 
