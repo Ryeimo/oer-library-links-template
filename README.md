@@ -4,18 +4,27 @@ A template for adding “Open Educational Resources” (OER) to a public library
 
 # Intro Paragraph
 
+ToDo: Write up description of OER
+
 https://vimeo.com/13590841
+
 https://youtu.be/dTNnxPcY49Q
 
 # OER Repositories
 
-add oasis to digital reserves
-add oer.gmu.edu to digital reserves
-add merlot to digital reserves
-oer: LOC open search
-https://openoregon.org/resources/
-oercommons.org
-https://solr.bccampus.ca/wp/
+[OASIS](https://oasis.geneseo.edu/index.php)
+
+[MERLOT](https://merlot.org)
+
+[OER Commons](https://oercommons.org)
+
+[Mason OER Metafinder](https://oer.gmu.edu)
+
+[Library of Congress](TODO)
+
+[Open Oregon Search](https://openoregon.org/resources/)
+
+[SOL*R](https://solr.bccampus.ca/wp/)
 
 # OER Textbooks
 
