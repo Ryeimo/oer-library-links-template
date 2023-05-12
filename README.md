@@ -97,6 +97,8 @@ https://youtu.be/dTNnxPcY49Q
 
 [Boise State OER Resource Guide](https://guides.boisestate.edu/oer/collectionsandopentextbooks)
 
+[OER @ Niagara College: A Quickstart Guide for Faculty by ncLibraries + Learning Commons (adapted by)](https://nclibraries.niagaracollege.ca/oer/adopt)
+
 
 
 
