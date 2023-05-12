@@ -50,11 +50,11 @@ https://youtu.be/dTNnxPcY49Q
 
 [Open Oregon Search](https://openoregon.org/resources/) - This page lists course materials that Oregon community college and university instructors are using to reduce textbook costs in their courses.
 
-[SOL*R](https://solr.bccampus.ca/wp/) - SOL*R is a repository service provided by BCcampus that allows educators to access FREE online learning resources. It facilitates sharing, discovery, reuse, and remixing of a growing collection of content created by BC post-secondary educators.
+[SOL\*R](https://solr.bccampus.ca/wp/) - A repository service provided by BCcampus that allows educators to access FREE online learning resources. It facilitates sharing, discovery, reuse, and remixing of a growing collection of content created by BC post-secondary educators.
 
 # OER Textbooks
 
-[Open Textbooks Library](https://open.umn.edu/opentextbooks) - The Open Textbook Library provides a growing catalog of free, peer-reviewed, and openly-licensed textbooks.
+[Open Textbooks Library](https://open.umn.edu/opentextbooks) - UMN's Open Textbook Library provides a growing catalog of free, peer-reviewed, and openly-licensed textbooks.
 
 [LibreTexts](https://libretexts.org) - LibreTexts is a 501(c)(3) non-profit organization committed to freeing the textbook from the limitations and costs of traditional textbooks. Their open and freely accessible LibreTexts provide a more engaging learning experience for students without the financial burden.
 
