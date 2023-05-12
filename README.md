@@ -30,7 +30,7 @@ Share the work with others (e.g., give a copy of the content to a friend)
 
 These rights, or permissions, are made possible through open licensing. For example, Creative Commons open licences help creators of OER retain copyright while allowing others to reproduce, distribute, and make some uses of their work.
 
-Some OER sites are repositories of all OER ever created in any format, some are searchable databases of OER textbooks only, and some sites are the home of an OER publishing nonprofit that produces textbooks themselves. OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aims, you can probably find an OER to your taste and liking, for free and immediate study. Dive in! Get acquainted with OER! And study college material all you want for free!
+Some OER sites are repositories of all OER ever created in any format, some are searchable databases of OER textbooks only, and some sites are the home of an OER publishing nonprofit that produces textbooks themselves. OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aim, you can probably find an OER to your taste and liking, for free and immediate study. Dive in! Get acquainted with OER! And study college material all you want for free! OER is not going away, it will only grow in import, relevance, and scope.
 
 https://vimeo.com/13590841
 
