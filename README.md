@@ -84,7 +84,7 @@ https://youtu.be/dTNnxPcY49Q
 
 [Class Central OCW Search](https://classcentral.com) - A aggregator of free courses offered on the internet. Warning: Includes ads.
 
-[MIT Open Courseware](https://ocw.mit.edu) - MIT began and coined OpenCourseware in 2001 when it began offering video recordings of its professors teaching classes, with related materials.
+[MIT Open Courseware](https://ocw.mit.edu) - MIT began and coined OpenCourseware in 2001 when it began offering video recordings of its professors teaching classes, with associated class materials like lecture handouts and problem sets.
 
 [freeCodeCamp](https://freecodecamp.org) - A non-profit dedicated to teaching people how to code and make websites for free.
 
