@@ -4,7 +4,11 @@ A template for adding “Open Educational Resources” (OER) to a public library
 
 # Intro Paragraph
 
-Open Educational Resources (OER) was coined in 2001 for an open source approach to academic books and textbooks. Much like Free/Libre Open Source Software (FLOSS) developed its programming culture around open licenses like GPL and copyleft, the hope was to apply similar open licenses (like Creative Commons's CC-BY) to academic writings in hopes of developing a robust library culture around free books. Just as open source software has taken over the programming world, OER is now taking over the publishing world, with hundreds of new OER textbooks being written and digitally published (for a free download) each year, forever in the public domain for sharing and consuming by anyone with an internet connection.
+Open Educational Resources (OER) was coined in 2001 for an open source approach to academic books and textbooks. Much like Free/Libre Open Source Software (FLOSS) developed its programming culture around open licenses like GNU Public License (GPL) and copyleft, the hope was to apply similar open licenses for art (like Creative Commons's CC-BY license) in hopes of developing a robust library culture around free books. Just as open source software has taken over the programming world, OER is now taking over the DIY publishing world, with hundreds of new OER textbooks being written and digitally published (for a free download) each year, forever in the public domain for sharing and consuming by anyone in the world with an internet connection.
+
+The five "R's" of OER are the rights to:
+
+
 
 Some OER sites are repositories of all OER ever created in any format, some are searchable databases of OER textbooks only, and some sites are the home of an OER publishing nonprofit that produces textbooks themselves. OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aims, you can probably find an OER to your taste and liking, for free and immediate study. Dive in! Get acquainted with OER! And study college material all you want for free!
 
