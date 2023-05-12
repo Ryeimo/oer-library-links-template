@@ -125,6 +125,8 @@ https://youtu.be/dTNnxPcY49Q
 
 [OER @ Niagara College: A Quickstart Guide for Faculty by ncLibraries + Learning Commons - Adopt Chapter (.epub)](https://nclibraries.niagaracollege.ca/oer/adopt)
 
+[Lumen Learning - The Five R's of OER](https://lumenlearning.zendesk.com/hc/en-us/articles/219255947-The-5Rs-of-OER)
+
 
 
 
