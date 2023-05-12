@@ -8,7 +8,27 @@ Open Educational Resources (OER) was coined in 2001 for an open source approach 
 
 The five "R's" of OER are the rights to:
 
+- Retain
 
+Make and own copies of the work (e.g., download, duplicate, store, and manage)
+
+- Reuse
+
+Use the work in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+
+- Revise
+
+Adapt, modify and translate the work (e.g., translate the content into another language)
+
+- Remix
+
+Combine it with another resource to make a new work (e.g., incorporate the content into a mashup)
+
+- Redistribute
+
+Share the work with others (e.g., give a copy of the content to a friend)
+
+These rights, or permissions, are made possible through open licensing. For example, Creative Commons open licences help creators of OER retain copyright while allowing others to reproduce, distribute, and make some uses of their work.
 
 Some OER sites are repositories of all OER ever created in any format, some are searchable databases of OER textbooks only, and some sites are the home of an OER publishing nonprofit that produces textbooks themselves. OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aims, you can probably find an OER to your taste and liking, for free and immediate study. Dive in! Get acquainted with OER! And study college material all you want for free!
 
