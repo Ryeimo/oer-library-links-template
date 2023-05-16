@@ -4,7 +4,7 @@ A template for adding “Open Educational Resources” (OER) to a public library
 
 # Intro Paragraph
 
-Open Educational Resources (OERs) were coined in 2001 for the act of taking an open source approach to academic books and textbooks. Much like Free/Libre Open Source Software (FLOSS) developed its online programming culture around open licenses like GNU Public License (GPL) and copyleft, the collective aim was to use open licenses for artworks (like Creative Commons's CC-BY-SA license) towards developing a robust online library culture promoting and curating free books. And just as open source software has succeeded in taking over the programming world, OER is now incrementally taking over the Do-It-Yourself publishing world, with hundreds of new OER textbooks being written and digitally published each year, forever in the public domain for sharing openly and reading for free by anyone in the world with an internet connection.
+Open Educational Resources (OERs) were coined in 2001 for the act of taking an open source approach to academic books and textbooks. Much like Free/Libre Open Source Software (FLOSS) developed its online programming culture around open licenses like GNU Public License (GPL) and copyleft, the collective aim was to similarly use open licenses for artworks (like Creative Commons's CC-BY-SA license) to develop a robust online library culture promoting and curating free books. OER is now incrementally taking over the Do-It-Yourself publishing world, with hundreds of new OER textbooks being written and digitally published each year, forever in the public domain for sharing openly and reading for free by anyone in the world with an internet connection.
 
 The five "R's" of OER are the rights to:
 
