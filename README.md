@@ -4,7 +4,7 @@ A template for adding “Open Educational Resources” (OER) to a public library
 
 # Intro Paragraph
 
-Open Educational Resources (OERs) were coined in 2001 for the act of taking an open source approach to academic books and textbooks. Much like Free/Libre Open Source Software (FLOSS) developed its online programming culture around open licenses like GNU Public License (GPL) and copyleft, the collective aim was to similarly use open licenses for artworks (like Creative Commons's CC-BY-SA license) to develop a robust online library culture promoting and curating free books. OER is now incrementally taking over the Do-It-Yourself publishing world, with hundreds of new OER textbooks being written and digitally published each year, forever in the public domain for sharing openly and reading for free by anyone in the world with an internet connection.
+Open Educational Resources (OERs) were coined in 2001 for the act of taking an open source approach to academic books and textbooks. Much like Free/Libre Open Source Software (FLOSS) developed around open licenses like GNU Public License (GPL) and copyleft, the collective aim of OER was to similarly use open licenses for artworks (like Creative Commons's CC-BY-SA license) to develop a robust online library culture promoting free books. OER is now incrementally taking over the Do-It-Yourself publishing world, with hundreds of new OER textbooks being written and digitally published each year, forever contributing to the public domain and for sharing openly.
 
 The five "R's" of OER are the rights to:
 
@@ -30,7 +30,7 @@ The five "R's" of OER are the rights to:
 
 These rights, or permissions, are made possible through open licensing. For example, Creative Commons open licences help creators of OER retain copyright while allowing others to reproduce, distribute, and make some uses of their work.
 
-Some OER sites are repositories of all OER ever created in any format, some are searchable databases of OER textbooks only, and some sites are the home of an OER publishing nonprofit that produces textbooks themselves. OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aim, you can probably find an OER to your taste and liking, for free and immediate study. Dive in! Get acquainted with OER! And study college material all you want for free!
+OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aim, you can probably find an OER to your liking, for free and immediate unrestricted access. Dive in! Get acquainted with OER! And study college material all you want for free!
 
 https://vimeo.com/13590841
 
