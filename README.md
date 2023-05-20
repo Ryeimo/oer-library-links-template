@@ -1,6 +1,6 @@
 # oer-library-link-template
 
-A template for adding “Open Educational Resources” (OER) to a public library’s e-reserves links/resources or pages/guides
+A template for adding “Open Educational Resources” (OER) to a public library’s e-reserves links/resources or guides. Public Domain CC0.
 
 # What are Open Educational Resources?
 
