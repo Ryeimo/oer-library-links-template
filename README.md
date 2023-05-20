@@ -121,7 +121,7 @@ https://youtu.be/dTNnxPcY49Q
 [Khan Academy](https://khanacademy.org) - A non-profit dedicated to teaching math and HS/first year college-level courses via videos and automated multiple choice quizes.
 
 
-#### Attribution/Works Cited
+## Attribution/Bibliography
 
 [OER Toolkit - Curating](https://tlp-lpa.ca/oer-toolkit/finding-curating)
 
