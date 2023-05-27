@@ -6,7 +6,7 @@ A template for adding “Open Educational Resources” (OER) to a public library
 
 The term "Open Educational Resource" was coined in 2002 by UNESCO for applying an open source approach to the field of academic books and publishing. Much like Free/Libre Open Source Software (FLOSS) was developed around open licenses like GNU Public License with its "copyleft" approach, OER hopes to similarly use open licenses for artworks (such as Creative Commons CC-BY-SA) to develop a robust global online culture promoting free books. OER is now incrementally taking over the Do-It-Yourself digital publishing world, with hundreds of new OER textbooks being written and digitally published each year by academics, forever available to share openly in the public domain.
 
-The five "R's" of OER are the rights to:
+The eight "R's" of OER are the rights to:
 
 - **Retain**
 
@@ -28,9 +28,21 @@ The five "R's" of OER are the rights to:
 
   - Share the work with others (e.g., give a copy of the content to a friend)
 
-These rights, or permissions, are made possible through open licensing. For example, Creative Commons open licences help creators of OER retain copyright while allowing others to reproduce, distribute, and make some uses of their work.
+- **Redistributive Justice**
+  
+  - Equity: This aspect of social inclusion is concerned with issues of access to and affordability of learning materials, especially to learners who may otherwise be excluded due to lack of financial or technological means. Social justice as access. (Hollich 4)
 
-OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aim, you can probably find an OER to your liking, for free and immediate unrestricted access. Dive in! Get acquainted with OER! And study college material all you want for free!
+- **Recognitive Justice**
+  
+  - Diversity: This aspect ensures that the learning materials and resources we use are truly reflective of and inclusive of folks from marginalized communities.  Social jusice as participation. (Hollich 4)
+
+- **Representational Justice**
+
+  - This is social justice as true inclusion and is the logical next step in the process of openly creating and sharing educational resources. Not only is it important for learners to be represented in their educational materials, but it is important the those groups are allowed to speak for and represent themselves, especially when those groups are, like those listed above, ones that are typically and historically marginalized by society. (Hollich 4)
+
+These rights, or permissions, are made possible through open licensing. For example, Creative Commons open licences help creators of OER retain copyright while allowing others to reproduce, distribute, and make some uses of their work, while FLOSS licenses (like CC ND) allow creators to release their work for free while still retaining important context assured by no-derivatives.
+
+OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aim, you can probably find an OER to your liking, for free and immediate unrestricted access. Dive in! Get acquainted with OER! And study college material all you want for free! Then create your own OER from your own specific cultural context and share how you'd like!
 
 https://vimeo.com/13590841
 
@@ -125,11 +137,15 @@ https://youtu.be/dTNnxPcY49Q
 
 [OER Toolkit - Curating](https://tlp-lpa.ca/oer-toolkit/finding-curating)
 
+[Hollich, Shanna - The Unrealized Promise of OER: An Exploration of Copyright, the Open Movement, and Social Justice.](https://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838936771_OA.pdf)
+
 [Boise State OER Resource Guide](https://guides.boisestate.edu/oer/collectionsandopentextbooks)
 
 [OER @ Niagara College: A Quickstart Guide for Faculty by ncLibraries + Learning Commons - Adopt Chapter (.epub)](https://nclibraries.niagaracollege.ca/oer/adopt)
 
 [Lumen Learning - The Five R's of OER](https://lumenlearning.zendesk.com/hc/en-us/articles/219255947-The-5Rs-of-OER)
+
+
 
 
 
