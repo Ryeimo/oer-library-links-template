@@ -132,8 +132,12 @@ EMBED: https://youtu.be/dTNnxPcY49Q
 
 [Khan Academy](https://khanacademy.org) - A non-profit dedicated to teaching math and HS/first year college-level courses via videos and automated multiple choice quizes.
 
+# Conclusion
 
-## Attribution/Bibliography
+There are thousands of free resources for learning a subject matter! Use the above resources to find more materials about what interests you. Dive deep into the worlds opened up, there is a low floor but a high ceiling! Best of luck to you in your academic endeavors, we look forward to your contributions engendered from all you learn! Stick with it! With OER, you can keep it low cost and sustainable.
+
+
+### Attribution/Bibliography
 
 [OER Toolkit - Curating](https://tlp-lpa.ca/oer-toolkit/finding-curating)
 
