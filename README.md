@@ -88,6 +88,8 @@ EMBED: https://youtu.be/dTNnxPcY49Q
 
 [NURSING - Open RN](https://www.cvtc.edu/landing-pages/grants/open-rn) - The Open RN project is led by Chippewa Valley Technical College as part of the Wisconsin Technical College System (WTCS) consortium. OER nursing textbooks and virtual simulations are collaboratively developed by faculty based on the WTCS State Nursing curriculum and the current NCLEX-RN Test Plan.
 
+[SCIENCE - EbookFoundation - Free Science Books](https://github.com/EbookFoundation/free-science-books) - Free science books curated by github contributors.
+
 
 # Open Access Journals
 
