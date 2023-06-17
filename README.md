@@ -38,7 +38,7 @@ The eight "R's" of OER are the rights to:
 
 - **Representational Justice**
 
-  - This is social justice as true inclusion and is the logical next step in the process of openly creating and sharing educational resources. Not only is it important for learners to be represented in their educational materials, but it is important the those groups are allowed to speak for and represent themselves, especially when those groups are, like those listed above, ones that are typically and historically marginalized by society. (Hollich 4)
+  - Inclusion: This is social justice as true inclusion and is the logical next step in the process of openly creating and sharing educational resources. Not only is it important for learners to be represented in their educational materials, but it is important the those groups are allowed to speak for and represent themselves, especially when those groups are, like those listed above, ones that are typically and historically marginalized by society. (Hollich 4)
 
 These rights, or permissions, are made possible through open licensing. For example, Creative Commons open licences help creators of OER retain copyright while allowing others to reproduce, distribute, and make some uses of their work, while FLOSS licenses (like CC ND) allow creators to release their work for free while still retaining important context assured by no-derivatives.
 
