@@ -134,7 +134,7 @@ EMBED: https://youtu.be/dTNnxPcY49Q
 
 # Conclusion
 
-There are thousands of free resources for learning a subject matter! Use the above resources to find more materials about what interests you. Dive deep into the worlds opened up, there is a low floor but a high ceiling! Best of luck to you in your academic endeavors, we look forward to your contributions engendered from all you learn! Stick with it! With OER, you can keep it low cost and sustainable.
+There are thousands of free resources for learning a subject matter! Use the above resources to find more materials about what interests you. Dive deep into the worlds opened up, there is a low floor with a high ceiling, and no catch! With OER, you can keep your studies low cost and sustainable. Best of luck to you in your academic endeavors, we look forward to your contributions resulting from all you learn! Stick with it! There are no shortcuts!
 
 
 ### Attribution/Bibliography
