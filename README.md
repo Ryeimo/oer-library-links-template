@@ -44,9 +44,9 @@ These rights, or permissions, are made possible through open licensing. For exam
 
 OER is bringing down the cost of an academic degree and self-study, as well as providing rich, free source material for lifelong learners and library patrons. Whatever your aim, you can probably find an OER to your liking, for free and immediate unrestricted access. Dive in! Get acquainted with OER! And study college material all you want for free! Then create your own OER from your own specific cultural context and share how you'd like!
 
-https://vimeo.com/13590841
+EMBED: https://vimeo.com/13590841
 
-https://youtu.be/dTNnxPcY49Q
+EMBED: https://youtu.be/dTNnxPcY49Q
 
 # OER Repositories
 
@@ -56,13 +56,13 @@ https://youtu.be/dTNnxPcY49Q
 
 [OER Commons](https://oercommons.org) - OER Commons is a public digital library of open educational resources. Explore, create, and collaborate with educators around the world to improve curriculum.
 
-[Mason OER Metafinder](https://oer.gmu.edu) - Multi-search platform from over 20 different sources of open educational materials.
-
 [Library of Congress - Open Access Books](https://www.loc.gov/collections/open-access-books/) - This is a growing online collection of contemporary open access e-books. All of these books have been made available for download on the Library's website in keeping with the intent of their creators and publishers, which chose to publish these works under open access licenses to allow the broadest possible access and reuse.
 
 [Open Oregon Search](https://openoregon.org/resources/) - This page lists course materials that Oregon community college and university instructors are using to reduce textbook costs in their courses.
 
 [SOL\*R](https://solr.bccampus.ca/wp/) - A repository service provided by BCcampus that allows educators to access FREE online learning resources. It facilitates sharing, discovery, reuse, and remixing of a growing collection of content created by BC post-secondary educators.
+
+[Mason OER Metafinder](https://oer.gmu.edu) - Multi-search platform from over 20 different sources of open educational materials.
 
 # OER Textbooks
 
