@@ -130,7 +130,7 @@ EMBED: https://youtu.be/dTNnxPcY49Q
 
 [MIT Open Courseware](https://ocw.mit.edu) - MIT began and coined OpenCourseware in 2001 when it began offering video recordings of its professors teaching classes, with associated class materials like lecture handouts and problem sets.
 
-[freeCodeCamp](https://freecodecamp.org) - A non-profit dedicated to teaching people how to code and make websites for free.
+[freeCodeCamp](https://freecodecamp.org) - A non-profit dedicated to teaching people for free how to code and make websites.
 
 [Khan Academy](https://khanacademy.org) - A non-profit dedicated to teaching math and HS/first year college-level courses via videos and automated multiple choice quizes.
 
