@@ -66,7 +66,7 @@ EMBED: https://youtu.be/dTNnxPcY49Q
 
 # OER Textbooks
 
-[Open Textbooks Library](https://open.umn.edu/opentextbooks) - UMN's Open Textbook Library provides a growing catalog of free, peer-reviewed, and openly-licensed textbooks.
+[Open Textbooks Library](https://open.umn.edu/opentextbooks) - UMN's Open Textbook Library provides a growing catalog of free, peer-reviewed, and openly-licensed textbooks. One of the best sites on the internet regarding OER discovery!
 
 [LibreTexts](https://libretexts.org) - LibreTexts is a 501(c)(3) non-profit organization committed to freeing the textbook from the limitations and costs of traditional textbooks. Their open and freely accessible LibreTexts provide a more engaging learning experience for students without the financial burden.
 
