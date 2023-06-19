@@ -76,6 +76,8 @@ EMBED: https://youtu.be/dTNnxPcY49Q
 
 [BC Campus OpenEd Textbooks](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/) - Find textbooks and full course material packages in our new, streamlined collection.
 
+[Archive.org](https://www.archive.org) - OER is often uploaded to Archive.org, so it is a reliable place to find textbooks on a subject, especially when their Controlled Digital Lending (CDL) stacks are considered.
+
 #### Subject-Specific
 
 [MATH - American Institute of Math - Open Textbook Initiative](https://aimath.org/textbooks/) - Free math textbooks curated by the American Math Institute.
