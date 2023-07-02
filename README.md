@@ -52,6 +52,8 @@ EMBED: https://vimeo.com/13590841
 
 EMBED: https://youtu.be/dTNnxPcY49Q
 
+OER at Washburn University's Mabee Library: [https://libguides.washburn.edu/Open](https://libguides.washburn.edu/Open)
+
 # OER Repositories
 
 [OASIS](https://oasis.geneseo.edu/index.php) - (Openly Available Sources Integrated Search) - Open-content search discovery tool from 95 different sources and over 367,883 records.
