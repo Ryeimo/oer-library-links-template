@@ -42,7 +42,7 @@ The eight "R's" of OER are the rights to:
  
 - **Accessibility**
   
-  - A11y ensures anyone, regardless of ability, is able to participate in some unique form of the learning experience, none of which are hierarchicalized versus another. This means a text is screenreader friendly, images have textual descriptions, video is captioned, braille readers can interpret texts, and all aspects of modern a11y-design. This even includes the site of learning or classroom being wheelchair friendly, accessible on public transportation, etc. There is no "open" to OER if it excludes entire classes of people.
+  - A11y ensures anyone, regardless of ability, is able to participate in some unique form of the learning experience, none of which are hierarchicalized versus another. This means a text is screenreader friendly, images have textual descriptions, video is captioned, braille readers can interpret texts, and all aspects of modern a11y web-design. This even includes the site of learning such as the classroom being wheelchair friendly, accessible on public transportation, etc. There is no "open" to OER if it excludes entire classes of people.
 
 These rights, or permissions, are made possible through open licensing. For example, Creative Commons open licences help creators of OER retain copyright while allowing others to reproduce, distribute, and make some uses of their work, while FLOSS licenses (like CC ND) allow creators to release their work for free while still retaining important context assured by no-derivatives.
 
